@@ -1,7 +1,4 @@
-package Model;
-import java.security.Timestamp;
-import java.text.SimpleDateFormat;
-import java.time.Instant;
+package com.company.model;
 import java.util.ArrayList;
 import java.util.Date;
 
